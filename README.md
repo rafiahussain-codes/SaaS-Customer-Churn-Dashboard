@@ -173,9 +173,9 @@ Includes:
 
 ### Dashboard Screenshots
 
-![Executive Summary](Dashboard/ExecutiveSummary.png)
+![Executive Summary](Executive_Summary.png)
 
-![Operational Summary](Operational%20Summary.png)---
+![Operational Summary](Operational_Summary.png)---
 
 # Technical Challenge
 
